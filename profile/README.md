@@ -1,6 +1,6 @@
 <img align="right" width="300" height="300" src="https://www.eurocontrol.int/sites/default/files/2020-07/ec-logo-default.svg">
 
-# EUROCONTROL - Aviation Intelligence Unit (AIU)
+# Aviation Intelligence Unit (AIU)
 
 Welcome to the EUROCONTROL Aviation Intelligence Unit's GitHub page! We are a team of aviation experts dedicated to improving the operational and economic performance of the aviation industry.
 

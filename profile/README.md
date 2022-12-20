@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://www.eurocontrol.int/sites/default/files/2020-07/ec-logo-default.svg">
+<img align="right" width="250" height="250" src="https://www.eurocontrol.int/sites/default/files/2020-07/ec-logo-default.svg">
 
 # Aviation Intelligence Unit (AIU)
 

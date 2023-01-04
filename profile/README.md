@@ -1,4 +1,4 @@
-<img align="right" width="150" src="https://ansperformance.eu/images/EUROCONTROL-logo-boxed-rgb.png" alt="EUROCONTROL logo" style="background-color:rwhite;" />
+<img align="right" width="150" src="https://ansperformance.eu/images/EUROCONTROL-logo-boxed-rgb.png" alt="EUROCONTROL logo" />
 
 # Aviation Intelligence Unit (AIU)
 

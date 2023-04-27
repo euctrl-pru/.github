@@ -10,3 +10,8 @@ As part of the European Organisation for the Safety of Air Navigation, we have a
 On this page, you will find a collection of our open-source projects and tools that we have developed to support our mission. These include data analysis and visualization tools, software solutions, and other resources that are designed to help us better understand and address the complex challenges facing the aviation industry.
 
 Whether you are an aviation professional, a data scientist, or simply someone who is interested in the field, we hope that you will find our projects and tools useful and informative. We welcome contributions and feedback from the community, so please feel free to explore and get involved!
+
+
+## Internal info
+
+Head to our [How To](howto/index.md) page to find out more about how to survive

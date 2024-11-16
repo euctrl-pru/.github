@@ -11,3 +11,6 @@ On this page, you will find a collection of our open-source projects and tools t
 
 Whether you are an aviation professional, a data scientist, or simply someone who is interested in the field, we hope that you will find our projects and tools useful and informative. We welcome contributions and feedback from the community, so please feel free to explore and get involved!
 
+Check out our Data Challenges:
+* [PRC Data Challenge 2024](https://github.com/prc-data-challenge-2024): code, data and info related to [estimating ATOW](https://ansperformance.eu/study/data-challenge/)
+
